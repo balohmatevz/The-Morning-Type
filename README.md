@@ -1,12 +1,12 @@
-# The-Morning-Type
+# The Morning Type
 An educational, typing video game, created for Ludum Dare 32 in April 2015
 
-== LINKS ==
+# LINKS
 
 Ludum Dare page: http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=20786
 Live: http://errorage.com/content/ld32/
 
-== DESCRIPTION ==
+# DESCRIPTION
 
 "The morning type" is quite possibly the worst pun I have ever made. Ever. 
 
