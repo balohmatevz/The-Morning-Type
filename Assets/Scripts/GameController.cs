@@ -148,7 +148,7 @@ public class GameController : MonoBehaviour {
                 cmds.Add("double bed");
                 cmds.Add("twin beds");
                 cmds.Add("bunk bed");
-                cmds.Add("four-poster");
+                cmds.Add("four poster");
                 cmds.Add("sofa bed");
                 cmds.Add("bedside table");
                 cmds.Add("chest of drawers");
@@ -206,7 +206,7 @@ public class GameController : MonoBehaviour {
                 cmds.Add("boxer shorts");
                 cmds.Add("boxers");
                 cmds.Add("bra");
-                cmds.Add("cardigen");
+                cmds.Add("cardigan");
                 cmds.Add("coat");
                 cmds.Add("dinner jacket");
                 cmds.Add("dress");
@@ -253,7 +253,7 @@ public class GameController : MonoBehaviour {
                 cmds.Add("underwear");
                 cmds.Add("undies");
                 cmds.Add("vest");
-                cmds.Add("welingtons");
+                cmds.Add("wellingtons");
                 cmds.Add("bracelet");
                 cmds.Add("cufflinks");
                 cmds.Add("comb");
